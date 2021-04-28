@@ -1,0 +1,7 @@
+C:\000-Projets\Blackboard\Blackboard\bin\Debug\BlackboardN.exe.config
+C:\000-Projets\Blackboard\Blackboard\bin\Debug\BlackboardN.exe
+C:\000-Projets\Blackboard\Blackboard\bin\Debug\BlackboardN.pdb
+C:\000-Projets\Blackboard\Blackboard\obj\Debug\Blackboard.csprojAssemblyReference.cache
+C:\000-Projets\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.CoreCompileInputs.cache
+C:\000-Projets\Blackboard\Blackboard\obj\Debug\BlackboardN.exe
+C:\000-Projets\Blackboard\Blackboard\obj\Debug\BlackboardN.pdb
